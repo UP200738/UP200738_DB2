@@ -2,3 +2,4 @@
 # Lizbeth Guadalupe Moreno Jiménez 
 # Administracion de Base de Datos
 # hola 
+# adios 
